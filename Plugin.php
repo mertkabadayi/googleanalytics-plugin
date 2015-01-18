@@ -1,4 +1,4 @@
-<?php namespace RainLab\GoogleAnalytics;
+<?php namespace smartpixel\GoogleAnalytics;
 
 /**
  * The plugin.php file (called the plugin initialization script) defines the plugin information class.
